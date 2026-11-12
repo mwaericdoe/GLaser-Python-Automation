@@ -117,4 +117,6 @@ Always create a backup of your GLaser project before running automated modificat
 
 ## License
 
-This project can be published under the MIT License. Add a `LICENSE` file to the repository if you choose this license.
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+You are free to use, modify, and distribute this software, including for commercial purposes, provided that the original copyright and license notice are included.
