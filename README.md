@@ -115,6 +115,18 @@ The automation follows these steps:
 
 Always create a backup of your GLaser project before running automated modifications.
 
+## ToDo / Planned Features
+
+Some ideas and features I would like to add in the future:
+
+- Test and retrieve project names in GLaser.
+
+- Add the option to select from multiple GLaser project files.
+
+- Add the ability to start the laser marking process directly from Python.
+
+More features and improvements may be added.
+
 ## License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
