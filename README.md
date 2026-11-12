@@ -109,7 +109,6 @@ The automation follows these steps:
 - Object indexes refer to the current order in the GLaser object list.
 - The automation IDs are based on GLaser version `GLaser_v2.0.65_2026.04.24`.
 - Changes to the GLaser interface may require adjustments to the automation IDs.
-- The QR code workflow should be tested with the specific GLaser installation.
 - The script does not start a laser marking or engraving operation.
 
 ## Safety recommendation
