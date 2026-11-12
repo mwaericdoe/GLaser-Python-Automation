@@ -30,7 +30,7 @@ This can be useful for automating serial numbers, product labels, identification
 ## Requirements
 
 - Windows
-- Gweike laser system with GLaser installed
+- Gweike laser system with GLaser (for G3) installed
 - Python 3
 - An open GLaser project
 
