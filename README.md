@@ -119,7 +119,7 @@ Always create a backup of your GLaser project before running automated modificat
 
 Some ideas and features I would like to add in the future:
 
-- Test and retrieve project names in GLaser.
+- Test for project names in GLaser.
 
 - Add the option to select from multiple GLaser project files.
 
